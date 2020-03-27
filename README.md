@@ -1,7 +1,7 @@
 # How to use Git with Eclipse IDE
-# 如何在Eclipse IDE 中使用Git
+# 濡備綍鍦‥clipse IDE 涓娇鐢℅it
 Test for eclipse with Git.
-在eclipse 中测试Git
+鍦╡clipse 涓祴璇旼it
 ## Step 1
 Clone remote repository to local.
-![P1.1](./images/1.1.jpg "1.1") 
+![P1.1](./images/1.1.png "1.1") 
