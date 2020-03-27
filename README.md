@@ -29,6 +29,6 @@ Open the Git Repositories view via select Window->Show View->Other...->Git Repos
 ![P5.2](/images/7.1.png "5.2")  
 ## Step 6  
 Then opens a panel in which you can import project or edit directly.  
-你可以在视图中导入项目或者直接编辑。  
+你可以在视图中选择导入项目或者直接编辑。  
 ![P6.1](/images/8.1.png "6.1")  
 ![P6.2](/images/9.1.png "6.2")      
