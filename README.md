@@ -4,4 +4,4 @@ Test for eclipse with Git.
 在eclipse 中测试Git
 ## Step 1
 Clone remote repository to local.
-![P1.1](./images/1.1.png "1.1")  
+![P1.1](./images/1.1.png "1.1") 
