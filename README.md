@@ -1,6 +1,6 @@
 # How to use Git within Eclipse IDE  
 # 如何在Eclipse IDE中使用Git  
-Test for eclipse within Git.  
+Test for eclipse with Git.  
 在eclipse 中测试Git。  
   
 Ensure that complete Git plugin installation and configuration before this operation below.  
