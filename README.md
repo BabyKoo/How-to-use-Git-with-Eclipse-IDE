@@ -1,4 +1,4 @@
-# How to use Git within Eclipse IDE  
+# How to use Git with Eclipse IDE  
 # 如何在Eclipse IDE中使用Git  
 Test for eclipse with Git.  
 在eclipse 中测试Git。  
